@@ -1,0 +1,55 @@
+/* Aturan CSS untuk halaman services */
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #ffffff;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+table a {
+  text-decoration: underline;
+  color: seagreen;
+}
+
+table a:hover {
+  color: palevioletred;
+}
+
+h1 {
+  color: #333;
+}
+
+.header-btn .sign-in {
+  margin: 0 10px 0 0;
+}
+
+/* Aturan CSS untuk tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #333;
+  color: #fff;
+}
+
+form {
+  margin-top: 120px;
+}
+
+/* Aturan CSS untuk tabel */
+table {
+  margin-bottom: 20px;
+}

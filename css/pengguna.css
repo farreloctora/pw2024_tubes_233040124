@@ -1,0 +1,17 @@
+table {
+  margin-top: 125px;
+}
+
+.btn-admin {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  background-color: #007BFF;
+  transition: background-color 0.3s ease;
+  margin-right: 1.4rem;
+}
+
+.btn-admin:hover {
+  background-color: #0056b3;
+}
